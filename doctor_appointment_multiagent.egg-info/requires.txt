@@ -1,0 +1,12 @@
+langgraph
+langchain
+streamlit
+fastapi
+chromadb
+openai
+google-generativeai
+groq
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-groq

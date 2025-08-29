@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: doctor-appointment-multiagent
+Version: 0.1.0
+Summary: A multi-agent system for doctor appointment scheduling
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: langgraph
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: fastapi
+Requires-Dist: chromadb
+Requires-Dist: openai
+Requires-Dist: google-generativeai
+Requires-Dist: groq
+Requires-Dist: langchain-community
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-google-genai
+Requires-Dist: langchain-groq
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
